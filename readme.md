@@ -15,4 +15,20 @@
 ### Lo que hace git status es mostrarte los documentos que estan preparados para pasarlos al steging y los que todavia no.  
   
 ## **🔥git add🔥**  
-### El git add te deja agregar al steging para despues poder hacer un commit.
+### El git add te deja agregar al steging para despues poder hacer un commit.  
+  
+## **🔥git commit -m🔥**  
+### git commit -m te permite empaquetar todo el contenido subido al steging y poner un comentario para indicar los cambios que has echo.  
+  
+## **🔥git log🔥**  
+### El git log permite ver un historial de los commits echos tambien te indica la hora a la que se hizo quien fue y su email.  
+  
+## **🔥git push🔥**  
+### El git push hace que los archivos empacados en el commit se envien a tu repositorio de GitHub.  
+
+## **🔥git pull🔥**  
+### El comando git pull te permite bajarte un archivo con los posibles cambios que se hicieran.  
+  
+## **🔥git clone🔥**  
+### git clone hace que te puedas clonar un repositorio de GitHub en tu ordenador de manera que te ahorra configurar uno local.
+
